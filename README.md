@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Rajesh Bist - Front-End Web Developer" />
+<img src="banner.svg" width="100%" alt="Rajesh Bist - Front-End Web Developer" />
 
-<img src="assets/typing.svg" width="100%" alt="Front-End Web Developer - React, TypeScript, Tailwind, UI/UX" />
+<img src="typing.svg" width="100%" alt="Front-End Web Developer - React, TypeScript, Tailwind, UI/UX" />
 
 <br /><br />
 
@@ -12,7 +12,7 @@
 
 <br /><br />
 
-<img src="assets/glowline.svg" width="100%" alt="" />
+<img src="glowline.svg" width="100%" alt="" />
 
 </div>
 
@@ -30,7 +30,7 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 <br />
 
 <div align="center">
-<img src="assets/glowline.svg" width="100%" alt="" />
+<img src="glowline.svg" width="100%" alt="" />
 </div>
 
 ## 🛠️ Tech Stack
@@ -42,13 +42,13 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 <br />
 
 <div align="center">
-<img src="assets/skills.svg" width="100%" alt="Skill levels - HTML and CSS 95%, JavaScript 88%, React 86%, TypeScript 78%, Tailwind 90%, UI/UX 84%, responsive design 95%, Git and GitHub 85%" />
+<img src="skills.svg" width="100%" alt="Skill levels - HTML and CSS 95%, JavaScript 88%, React 86%, TypeScript 78%, Tailwind 90%, UI/UX 84%, responsive design 95%, Git and GitHub 85%" />
 </div>
 
 <br />
 
 <div align="center">
-<img src="assets/glowline.svg" width="100%" alt="" />
+<img src="glowline.svg" width="100%" alt="" />
 </div>
 
 ## 🚀 Featured Project
@@ -67,7 +67,7 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
       </p>
       <p>
         <a href="https://horaa-esports-website.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-horaa--esports--website.vercel.app-8B5CF6?style=for-the-badge" alt="Live demo" /></a>
-        <img src="assets/pulse.svg" width="14" alt="" /> <sub>deployed on Vercel</sub>
+        <img src="pulse.svg" width="14" alt="" /> <sub>deployed on Vercel</sub>
       </p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -105,19 +105,19 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 <br />
 
 <div align="center">
-<img src="assets/glowline.svg" width="100%" alt="" />
+<img src="glowline.svg" width="100%" alt="" />
 </div>
 
 ## 📊 By The Numbers
 
 <div align="center">
-<img src="assets/numbers.svg" width="100%" alt="Followers 2, public repos 1, on GitHub since 2026, 4 certifications, 10+ technologies, 1 live project" />
+<img src="numbers.svg" width="100%" alt="Followers 2, public repos 1, on GitHub since 2026, 4 certifications, 10+ technologies, 1 live project" />
 </div>
 
 <br />
 
 <div align="center">
-<img src="assets/glowline.svg" width="100%" alt="" />
+<img src="glowline.svg" width="100%" alt="" />
 </div>
 
 ## 🏆 Certifications
@@ -144,7 +144,7 @@ Responsive landing pages · website redesigns · UI implementation · Figma-to-w
 <br />
 
 <div align="center">
-<img src="assets/glowline.svg" width="100%" alt="" />
+<img src="glowline.svg" width="100%" alt="" />
 </div>
 
 ## 📫 Let's Connect
@@ -164,7 +164,7 @@ Responsive landing pages · website redesigns · UI implementation · Figma-to-w
 <br />
 
 <div align="center">
-<img src="assets/wave.svg" width="100%" alt="" />
+<img src="wave.svg" width="100%" alt="" />
 
 <sub>Built with care and a lot of coffee — Rajesh Bist</sub>
 
