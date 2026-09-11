@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="180" viewBox="0 0 900 180" role="img" aria-label="Available for new projects - Hire me on Upwork">
+  <title>Hire me</title>
+  <defs>
+    <linearGradient id="hg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#a855f7;#f472b6;#22d3ee" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#a855f7">
+        <animate attributeName="stop-color" values="#a855f7;#f472b6;#22d3ee;#a855f7" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#22d3ee;#a855f7;#f472b6" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="hs" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="hglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+    <clipPath id="hclip"><rect x="8" y="8" width="884" height="164" rx="16"/></clipPath>
+  </defs>
+  <style>
+    @keyframes hsweep { 0% { transform: translateX(-300px); } 55%,100% { transform: translateX(900px); } }
+    @keyframes hpulse { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: .95; transform: scale(1.04); } }
+    @keyframes harrow { 0%,100% { transform: translateX(0); } 50% { transform: translateX(7px); } }
+    @keyframes hring  { 0%,100% { opacity: .25; } 50% { opacity: .9; } }
+    .hsw { animation: hsweep 5.5s cubic-bezier(.4,0,.2,1) infinite; }
+    .hbt { transform-box: fill-box; transform-origin: 50% 50%; animation: hpulse 2.6s ease-in-out infinite; }
+    .har { animation: harrow 1.6s ease-in-out infinite; }
+    .hrg { animation: hring 3s ease-in-out infinite; }
+  </style>
+
+  <rect width="900" height="180" fill="#0d1117"/>
+
+  <!-- card -->
+  <rect class="hrg" x="8" y="8" width="884" height="164" rx="16" fill="none" stroke="url(#hg)" stroke-width="2"/>
+  <rect x="8" y="8" width="884" height="164" rx="16" fill="#0f1626"/>
+  <g clip-path="url(#hclip)">
+    <rect class="hsw" x="0" y="8" width="300" height="164" fill="url(#hs)"/>
+  </g>
+
+  <!-- pulsing green dot + label -->
+  <circle cx="40" cy="44" r="5" fill="#22c55e"/>
+  <circle cx="40" cy="44" r="5" fill="none" stroke="#22c55e" stroke-width="2">
+    <animate attributeName="r" values="5;13;5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".9;0;.9" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="58" y="48" font-size="12" letter-spacing="2.4" fill="#22c55e" font-weight="600">AVAILABLE FOR NEW PROJECTS</text>
+    <text x="36" y="92" font-size="30" font-weight="700" textLength="470" lengthAdjust="spacingAndGlyphs" fill="url(#hg)">Let&#8217;s build something together</text>
+    <text x="36" y="120" font-size="15" textLength="500" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Landing pages &#183; website redesigns &#183; Figma-to-code &#183; React &amp; Tailwind</text>
+    <text x="36" y="144" font-size="13" textLength="400" lengthAdjust="spacingAndGlyphs" fill="#5b6b85">Fast delivery &#183; clear communication &#183; mobile-first &#183; accessible</text>
+  </g>
+
+  <!-- button -->
+  <rect class="hbt" x="606" y="58" width="252" height="64" rx="32" fill="#14a800" filter="url(#hglow)"/>
+  <rect x="606" y="58" width="252" height="64" rx="32" fill="#14a800"/>
+  <g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+    <text x="726" y="96" text-anchor="middle" font-size="17" font-weight="700" fill="#ffffff">Hire me on Upwork</text>
+  </g>
+  <g class="har" transform="translate(816,80)">
+    <path d="M0 0 l 13 8 l -13 8" fill="none" stroke="#ffffff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>

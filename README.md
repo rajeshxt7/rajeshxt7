@@ -51,56 +51,45 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 <img src="glowline.svg" width="100%" alt="" />
 </div>
 
-## 🚀 Featured Project
+## 🚀 Projects
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="14">
-  <tr valign="top">
-    <td width="100%" align="left">
-      <p>
-        <a href="https://horaa-esports-website.vercel.app/"><b>🎮 Horaa Esports Website</b></a>
-      </p>
-      <p>
-        A responsive esports team website with roster, achievements, news, matches, sponsors and contact sections — built with a dark, high-energy game-day aesthetic.
-      </p>
-      <p>
-        <b>Stack:</b> React · TypeScript · Vite · Tailwind CSS · Motion · Lucide React
-      </p>
-      <p>
-        <a href="https://horaa-esports-website.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-horaa--esports--website.vercel.app-8B5CF6?style=for-the-badge" alt="Live demo" /></a>
-        <img src="pulse.svg" width="14" alt="" /> <sub>deployed on Vercel</sub>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-        <img src="https://img.shields.io/badge/Motion-FF4F00?style=flat-square&logo=framer&logoColor=white" alt="Motion" />
-      </p>
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://horaa-esports-website.vercel.app/"><img src="proj1.svg" width="100%" alt="Horaa Esports — esports team website" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="proj2.svg" width="100%" alt="Client work — landing pages and redesigns" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="proj3.svg" width="100%" alt="Figma to code — pixel accurate builds" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="proj4.svg" width="100%" alt="Responsive mobile-first builds" /></a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+<sub>Every card links straight to the work or to my Upwork profile — more case studies shared on request.</sub>
+</p>
+
 <!--
   =========================================================================
-  ARU PROJECT HARU YAHA ADD GARNE
-  tala ko block lai copy garera mathi ko table bhitra naya row banayera
-  paste garne, ani title / description / link / badges edit garne.
+  CARD HARU EDIT GARNE TARIKA
+  generate_assets.py ko sabai bhanda tala "PROJECTS" list cha:
+
+      {"no": "01", "title": "Horaa Esports", "desc": "...",
+       "tech": ["React", "TypeScript", "Tailwind"],
+       "font": "Impact, ...", "accent": "#f472b6", "href": "https://..."}
+
+  tyaha title / desc / tech / font / color / link change garera
+  "python3 generate_assets.py" run garne -> naya proj1..proj4.svg bancha.
   =========================================================================
-  <tr valign="top">
-    <td width="50%" align="left">
-      <p><a href="PROJECT_URL"><b>🔥 Project Name</b></a></p>
-      <p>One or two lines about what the project does and who it is for.</p>
-      <p><b>Stack:</b> React · Tailwind · Firebase</p>
-      <p><a href="LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge" alt="Live demo" /></a></p>
-    </td>
-    <td width="50%" align="left">
-      <p><a href="PROJECT_URL"><b>🔥 Project Name 2</b></a></p>
-      <p>Projects look best in pairs — landing pages, dashboards, portfolio sites.</p>
-      <p><b>Stack:</b> HTML · CSS · JavaScript</p>
-      <p><a href="LIVE_URL"><img src="https://img.shields.io/badge/Live%20Demo-Visit-8B5CF6?style=for-the-badge" alt="Live demo" /></a></p>
-    </td>
-  </tr>
 -->
+
 
 <br />
 
@@ -140,6 +129,12 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 ## 🛠️ What I Build
 
 Responsive landing pages · website redesigns · UI implementation · Figma-to-website projects · performance & accessibility fixes
+
+<br />
+
+<div align="center">
+<a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="hireme.svg" width="100%" alt="Available for new projects - hire me on Upwork" /></a>
+</div>
 
 <br />
 

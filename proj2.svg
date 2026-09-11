@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Client Work">
+  <title>Client Work</title>
+  <defs>
+    <linearGradient id="ps1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="pc1"><rect x="4" y="4" width="432" height="152" rx="14"/></clipPath>
+  </defs>
+  <style>
+    @keyframes sww1 { 0% { transform: translateX(-220px); } 55%,100% { transform: translateX(440px); } }
+    @keyframes arw1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(4px,-4px); } }
+    @keyframes brd1 { 0%,100% { stroke-opacity: .30; } 50% { stroke-opacity: .95; } }
+    .sw1 { animation: sww1 4.6s cubic-bezier(.4,0,.2,1) infinite; }
+    .ar1 { animation: arw1 1.9s ease-in-out infinite; }
+    .bd1 { animation: brd1 3.4s ease-in-out infinite; }
+  </style>
+
+  <rect width="440" height="160" fill="#0d1117"/>
+  <rect x="4" y="4" width="432" height="152" rx="14" fill="#0f1626"/>
+  <rect class="bd1" x="4" y="4" width="432" height="152" rx="14" fill="none" stroke="#14a800" stroke-width="2"/>
+  <g clip-path="url(#pc1)">
+    <rect class="sw1" x="0" y="4" width="220" height="152" fill="url(#ps1)"/>
+  </g>
+
+  <text x="24" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#14a800" opacity=".20">02</text>
+  <text x="24" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="25" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Client Work</text>
+  <text x="24" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Landing pages &amp; redesigns delivered on Upwork.</text>
+
+    <rect x="24" y="124" width="51" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
+    <text x="33" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">HTML5</text>
+    <rect x="83" y="124" width="44" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
+    <text x="92" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">CSS3</text>
+    <rect x="135" y="124" width="84" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
+    <text x="144" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">JavaScript</text>
+
+  <g class="ar1" transform="translate(392,22)">
+    <path d="M0 14 L14 0" fill="none" stroke="#14a800" stroke-width="2.5" stroke-linecap="round"/>
+    <path d="M6 0 L14 0 L14 8" fill="none" stroke="#14a800" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
