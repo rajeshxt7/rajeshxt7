@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 26 26" role="img" aria-label="online">
+  <title>pulse</title>
+  <circle cx="13" cy="13" r="5" fill="#22c55e"/>
+  <circle cx="13" cy="13" r="5" fill="none" stroke="#22c55e" stroke-width="2">
+    <animate attributeName="r" values="5;12;5" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0;1" dur="2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
