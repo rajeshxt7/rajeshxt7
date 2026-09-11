@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="292" viewBox="0 0 900 292" role="img" aria-label="About Rajesh Bist">
+  <title>About</title>
+  <rect width="900" height="292" fill="#0d1117"/>
+  <text x="20" y="38" font-family="Copperplate, 'Copperplate Gothic Bold', 'Century Gothic', Futura, sans-serif" font-size="22" letter-spacing="2.6" fill="#7fe7ff">ABOUT ME</text>
+  <rect x="20" y="52" width="860" height="1" fill="#1b2637"/>
+  <text x="20" y="74" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">I&#8217;m Rajesh Bist, a front-end web developer who builds clean, responsive</text>
+  <text x="20" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">and user-friendly websites for businesses, brands and online communities.</text>
+  <text x="20" y="126" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">I combine front-end development with UI/UX thinking so that every site</text>
+  <text x="20" y="148" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">I ship looks polished, works smoothly, and stays easy to use.</text>
+  <rect x="20" y="168" width="860" height="1" fill="#1b2637"/>
+  <rect x="22" y="189" width="8" height="8" rx="2" fill="#22d3ee"/>
+  <text x="40" y="196" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="13.5" fill="#9fb0c6">Focus &#8212; responsive, mobile-first, accessible interfaces</text>
+  <rect x="22" y="217" width="8" height="8" rx="2" fill="#a855f7"/>
+  <text x="40" y="224" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="13.5" fill="#9fb0c6">Stack &#8212; HTML5 &#183; CSS3 &#183; JavaScript &#183; React &#183; TypeScript &#183; Tailwind &#183; Vite</text>
+  <rect x="22" y="245" width="8" height="8" rx="2" fill="#f472b6"/>
+  <text x="40" y="252" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="13.5" fill="#9fb0c6">Also &#8212; Figma-to-code, Google Analytics, performance &amp; accessibility audits</text>
+  <rect x="22" y="273" width="8" height="8" rx="2" fill="#a3e635"/>
+  <text x="40" y="280" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="13.5" fill="#9fb0c6">Based in Nepal &#8212; working with clients worldwide</text>
+</svg>

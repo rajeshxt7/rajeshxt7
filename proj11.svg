@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="66" viewBox="0 0 288 66" role="img" aria-label="Expense Tracker">
+  <title>Expense Tracker</title>
+  <style>
+    @keyframes arw11 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(5px,-5px); } }
+    @keyframes rule11 { 0% { transform: scaleX(0); } 55%,100% { transform: scaleX(1); } }
+    .ar11 { animation: arw11 2.1s ease-in-out infinite; }
+    .rl11 { transform-origin: 0 0; animation: rule11 6s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 0.5s; }
+  </style>
+  <rect width="288" height="66" fill="#0d1117"/>
+  <text x="2" y="30" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="11" fill="#a3e635" opacity=".85">11</text>
+  <text x="30" y="31" font-family="Verdana, Geneva, sans-serif" font-size="16.5" textLength="196" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Expense Tracker</text>
+  <text x="30" y="50" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="10" fill="#6b7d96">JS &#183; localStorage</text>
+  <g class="ar11" transform="translate(268,14)">
+    <path d="M0 9 L9 0" fill="none" stroke="#a3e635" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M4 0 L9 0 L9 5" fill="none" stroke="#a3e635" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <rect x="0" y="65" width="288" height="1" fill="#a3e635" opacity=".22"/>
+</svg>

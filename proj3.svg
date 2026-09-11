@@ -1,40 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Todo List">
-  <title>Todo List</title>
-  <defs>
-    <linearGradient id="ps2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="pc2"><rect x="4" y="4" width="432" height="152" rx="14"/></clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="288" height="66" viewBox="0 0 288 66" role="img" aria-label="Tip Calculator">
+  <title>Tip Calculator</title>
   <style>
-    @keyframes sww2 { 0% { transform: translateX(-220px); } 55%,100% { transform: translateX(440px); } }
-    @keyframes arw2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(4px,-4px); } }
-    @keyframes brd2 { 0%,100% { stroke-opacity: .30; } 50% { stroke-opacity: .95; } }
-    .sw2 { animation: sww2 4.6s cubic-bezier(.4,0,.2,1) infinite; }
-    .ar2 { animation: arw2 1.9s ease-in-out infinite; }
-    .bd2 { animation: brd2 3.4s ease-in-out infinite; }
+    @keyframes arw3 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(5px,-5px); } }
+    @keyframes rule3 { 0% { transform: scaleX(0); } 55%,100% { transform: scaleX(1); } }
+    .ar3 { animation: arw3 2.1s ease-in-out infinite; }
+    .rl3 { transform-origin: 0 0; animation: rule3 6s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 1.0s; }
   </style>
-
-  <rect width="440" height="160" fill="#0d1117"/>
-  <rect x="4" y="4" width="432" height="152" rx="14" fill="#0f1626"/>
-  <rect class="bd2" x="4" y="4" width="432" height="152" rx="14" fill="none" stroke="#22c55e" stroke-width="2"/>
-  <g clip-path="url(#pc2)">
-    <rect class="sw2" x="0" y="4" width="220" height="152" fill="url(#ps2)"/>
+  <rect width="288" height="66" fill="#0d1117"/>
+  <text x="2" y="30" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="11" fill="#14b8a6" opacity=".85">03</text>
+  <text x="30" y="31" font-family="Georgia, 'Times New Roman', serif" font-size="16.5" textLength="196" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Tip Calculator</text>
+  <text x="30" y="50" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="10" fill="#6b7d96">HTML &#183; CSS &#183; JS</text>
+  <g class="ar3" transform="translate(268,14)">
+    <path d="M0 9 L9 0" fill="none" stroke="#14b8a6" stroke-width="1.8" stroke-linecap="round"/>
+    <path d="M4 0 L9 0 L9 5" fill="none" stroke="#14b8a6" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-
-  <text x="24" y="66" font-family="'Courier New', Courier, monospace" font-size="46" fill="#22c55e" opacity=".20">03</text>
-  <text x="24" y="96" font-family="'Courier New', Courier, monospace" font-size="25" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Todo List</text>
-  <text x="24" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Add, complete and persist tasks locally.</text>
-
-    <rect x="24" y="124" width="31" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="33" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">JS</text>
-    <rect x="63" y="124" width="97" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="72" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">localStorage</text>
-
-  <g class="ar2" transform="translate(392,22)">
-    <path d="M0 14 L14 0" fill="none" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M6 0 L14 0 L14 8" fill="none" stroke="#22c55e" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+  <rect x="0" y="65" width="288" height="1" fill="#14b8a6" opacity=".22"/>
 </svg>

@@ -18,14 +18,9 @@
 
 ## 👋 About Me
 
-I'm **Rajesh Bist**, a front-end web developer who builds clean, responsive and user-friendly websites for businesses, brands and online communities.
-
-I combine front-end development with UI/UX thinking so that every site I ship looks polished, works smoothly on every device, and stays easy to use.
-
-- 🎯 **Focus:** responsive, mobile-first, accessible interfaces
-- ⚡ **Stack:** HTML5 · CSS3 · JavaScript · React · TypeScript · Tailwind CSS · Vite
-- 🧩 **Also:** Figma-to-website conversion, Google Analytics, performance & accessibility audits
-- 📍 Based in Nepal · working with clients worldwide
+<div align="center">
+<img src="about.svg" width="100%" alt="About Rajesh Bist" />
+</div>
 
 <br />
 
@@ -53,73 +48,55 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 
 ## 🚀 Projects
 
-<table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
+_Live client projects — click a row to open it._
+
+<div align="center">
+<a href="https://horaa-esports-website.vercel.app/"><img src="proj1.svg" width="100%" alt="Horaa Esports" /></a>
+</div>
+
+<div align="center">
+<a href="https://rajesh-dental-care.vercel.app/"><img src="proj2.svg" width="100%" alt="Dental Care" /></a>
+</div>
+
+## 🧩 Mini Projects
+
+<sub>Nine small front-end builds — plain HTML, CSS and JavaScript. No frameworks.</sub>
+
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
-    <td width="50%" align="center">
-      <a href="https://horaa-esports-website.vercel.app/"><img src="proj1.svg" width="100%" alt="Horaa Esports" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/tip-calculator.html"><img src="proj3.svg" width="100%" alt="Tip Calculator" /></a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/tip-calculator.html"><img src="proj2.svg" width="100%" alt="Tip Calculator" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/todo-list.html"><img src="proj4.svg" width="100%" alt="Todo List" /></a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/password-generator.html"><img src="proj5.svg" width="100%" alt="Password Gen" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/todo-list.html"><img src="proj3.svg" width="100%" alt="Todo List" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/color-palette.html"><img src="proj6.svg" width="100%" alt="Color Palette" /></a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/password-generator.html"><img src="proj4.svg" width="100%" alt="Password Gen" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/pomodoro.html"><img src="proj7.svg" width="100%" alt="Pomodoro" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/color-palette.html"><img src="proj5.svg" width="100%" alt="Color Palette" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/pomodoro.html"><img src="proj6.svg" width="100%" alt="Pomodoro" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/quiz-app.html"><img src="proj8.svg" width="100%" alt="Quiz App" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/quiz-app.html"><img src="proj7.svg" width="100%" alt="Quiz App" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/tic-tac-toe.html"><img src="proj9.svg" width="100%" alt="Tic Tac Toe" /></a>
     </td>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/tic-tac-toe.html"><img src="proj8.svg" width="100%" alt="Tic Tac Toe" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/unit-converter.html"><img src="proj10.svg" width="100%" alt="Unit Converter" /></a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/unit-converter.html"><img src="proj9.svg" width="100%" alt="Unit Converter" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/expense-tracker.html"><img src="proj10.svg" width="100%" alt="Expense Tracker" /></a>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/expense-tracker.html"><img src="proj11.svg" width="100%" alt="Expense Tracker" /></a>
     </td>
   </tr>
 </table>
-
-<p align="center">
-<sub>Ten live mini-projects — HTML, CSS and vanilla JavaScript. Click any card to open it.</sub>
-</p>
-
-<!--
-  =========================================================================
-  CARD HARU EDIT GARNE TARIKA
-  generate_assets.py ko sabai bhanda tala "PROJECTS" list cha:
-
-      {"no": "01", "title": "Horaa Esports", "desc": "...",
-       "tech": ["React", "TypeScript", "Tailwind"],
-       "font": "Impact, ...", "accent": "#f472b6", "href": "https://..."}
-
-  tyaha title / desc / tech / font / color / link change garera
-  "python3 generate_assets.py" run garne -> naya proj1..proj4.svg bancha.
-  =========================================================================
--->
-
-
-<br />
-
-<div align="center">
-<img src="glowline.svg" width="100%" alt="" />
-</div>
 
 ## 📊 By The Numbers
 
@@ -135,26 +112,21 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 
 ## 🏆 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Meta-Front--End%20Developer%20Professional-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Meta Front-End Developer Professional Certificate" />
-  <img src="https://img.shields.io/badge/Google-UX%20Design%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google UX Design Professional Certificate" />
-  <img src="https://img.shields.io/badge/Google-Analytics%20Certification-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Google Analytics Certification" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-Responsive%20Web%20Design-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="Responsive Web Design Certification" />
-</p>
+<div align="center">
+<img src="certs.svg" width="100%" alt="Certifications" />
+</div>
 
 ## 🤝 How I Work
 
-- 📱 **Mobile-first** and responsive on every screen size
-- 🧼 **Semantic, maintainable** front-end code
-- 🎨 **Clear visual hierarchy** with careful spacing and typography
-- ♿ **Accessibility** and performance kept in mind from the start
-- 🚀 **Fast delivery** with clear communication
+<div align="center">
+<img src="work.svg" width="100%" alt="How I work" />
+</div>
 
 ## 🛠️ What I Build
 
-<sub>Landing pages · redesigns · Figma-to-code · performance · accessibility · design systems</sub>
-
-
+<div align="center">
+<img src="build.svg" width="100%" alt="What I build" />
+</div>
 
 <br />
 

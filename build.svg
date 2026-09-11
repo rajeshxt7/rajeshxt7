@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="148" viewBox="0 0 900 148" role="img" aria-label="What I build">
+  <title>What I build</title>
+  <rect width="900" height="148" fill="#0d1117"/>
+  <text x="20" y="38" font-family="Copperplate, 'Copperplate Gothic Bold', 'Century Gothic', Futura, sans-serif" font-size="22" letter-spacing="2.6" fill="#7fe7ff">WHAT I BUILD</text>
+  <rect x="20" y="52" width="860" height="1" fill="#1b2637"/>
+  <text x="20" y="86" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="15" fill="#b9c7d9">Responsive landing pages &#183; website redesigns &#183; UI implementation</text>
+  <text x="20" y="116" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="15" fill="#b9c7d9">Figma-to-website projects &#183; performance tuning &#183; accessibility fixes</text>
+</svg>

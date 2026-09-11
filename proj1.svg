@@ -1,42 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Horaa Esports">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="86" viewBox="0 0 900 86" role="img" aria-label="Horaa Esports">
   <title>Horaa Esports</title>
-  <defs>
-    <linearGradient id="ps0" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="pc0"><rect x="4" y="4" width="432" height="152" rx="14"/></clipPath>
-  </defs>
   <style>
-    @keyframes sww0 { 0% { transform: translateX(-220px); } 55%,100% { transform: translateX(440px); } }
-    @keyframes arw0 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(4px,-4px); } }
-    @keyframes brd0 { 0%,100% { stroke-opacity: .30; } 50% { stroke-opacity: .95; } }
-    .sw0 { animation: sww0 4.6s cubic-bezier(.4,0,.2,1) infinite; }
-    .ar0 { animation: arw0 1.9s ease-in-out infinite; }
-    .bd0 { animation: brd0 3.4s ease-in-out infinite; }
+    @keyframes arw1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(5px,-5px); } }
+    @keyframes rule1 { 0% { transform: scaleX(0); } 55%,100% { transform: scaleX(1); } }
+    .ar1 { animation: arw1 2.1s ease-in-out infinite; }
+    .rl1 { transform-origin: 0 0; animation: rule1 6s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 0.0s; }
   </style>
-
-  <rect width="440" height="160" fill="#0d1117"/>
-  <rect x="4" y="4" width="432" height="152" rx="14" fill="#0f1626"/>
-  <rect class="bd0" x="4" y="4" width="432" height="152" rx="14" fill="none" stroke="#f472b6" stroke-width="2"/>
-  <g clip-path="url(#pc0)">
-    <rect class="sw0" x="0" y="4" width="220" height="152" fill="url(#ps0)"/>
+  <rect width="900" height="86" fill="#0d1117"/>
+  <rect x="0" y="22" width="3" height="42" rx="1.5" fill="#f472b6"/>
+  <text x="26" y="52" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="13" fill="#f472b6" opacity=".85">01</text>
+  <text x="72" y="50" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="26" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Horaa Esports</text>
+  <text x="72" y="71" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="13" textLength="440" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Roster, matches, news, sponsors and contact.</text>
+  <text x="840" y="50" text-anchor="end" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="12" fill="#6b7d96">React &#183; TypeScript &#183; Tailwind</text>
+  <text x="840" y="71" text-anchor="end" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="11.5" letter-spacing="1.4" fill="#f472b6" opacity=".9">VIEW LIVE</text>
+  <g class="ar1" transform="translate(858,30)">
+    <path d="M0 10 L10 0" fill="none" stroke="#f472b6" stroke-width="2" stroke-linecap="round"/>
+    <path d="M4 0 L10 0 L10 6" fill="none" stroke="#f472b6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-
-  <text x="24" y="66" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="46" fill="#f472b6" opacity=".20">01</text>
-  <text x="24" y="96" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif" font-size="25" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Horaa Esports</text>
-  <text x="24" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Roster, matches, news, sponsors and contact.</text>
-
-    <rect x="24" y="124" width="51" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="33" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">React</text>
-    <rect x="83" y="124" width="84" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="92" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">TypeScript</text>
-    <rect x="175" y="124" width="70" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="184" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">Tailwind</text>
-
-  <g class="ar0" transform="translate(392,22)">
-    <path d="M0 14 L14 0" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M6 0 L14 0 L14 8" fill="none" stroke="#f472b6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+  <rect x="0" y="85" width="900" height="1" fill="#1b2637"/>
 </svg>

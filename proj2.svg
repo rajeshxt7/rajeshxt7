@@ -1,42 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="160" viewBox="0 0 440 160" role="img" aria-label="Tip Calculator">
-  <title>Tip Calculator</title>
-  <defs>
-    <linearGradient id="ps1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.45"/>
-      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
-    </linearGradient>
-    <clipPath id="pc1"><rect x="4" y="4" width="432" height="152" rx="14"/></clipPath>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="86" viewBox="0 0 900 86" role="img" aria-label="Dental Care">
+  <title>Dental Care</title>
   <style>
-    @keyframes sww1 { 0% { transform: translateX(-220px); } 55%,100% { transform: translateX(440px); } }
-    @keyframes arw1 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(4px,-4px); } }
-    @keyframes brd1 { 0%,100% { stroke-opacity: .30; } 50% { stroke-opacity: .95; } }
-    .sw1 { animation: sww1 4.6s cubic-bezier(.4,0,.2,1) infinite; }
-    .ar1 { animation: arw1 1.9s ease-in-out infinite; }
-    .bd1 { animation: brd1 3.4s ease-in-out infinite; }
+    @keyframes arw2 { 0%,100% { transform: translate(0,0); } 50% { transform: translate(5px,-5px); } }
+    @keyframes rule2 { 0% { transform: scaleX(0); } 55%,100% { transform: scaleX(1); } }
+    .ar2 { animation: arw2 2.1s ease-in-out infinite; }
+    .rl2 { transform-origin: 0 0; animation: rule2 6s cubic-bezier(.4,0,.2,1) infinite; animation-delay: 0.5s; }
   </style>
-
-  <rect width="440" height="160" fill="#0d1117"/>
-  <rect x="4" y="4" width="432" height="152" rx="14" fill="#0f1626"/>
-  <rect class="bd1" x="4" y="4" width="432" height="152" rx="14" fill="none" stroke="#14b8a6" stroke-width="2"/>
-  <g clip-path="url(#pc1)">
-    <rect class="sw1" x="0" y="4" width="220" height="152" fill="url(#ps1)"/>
+  <rect width="900" height="86" fill="#0d1117"/>
+  <rect x="0" y="22" width="3" height="42" rx="1.5" fill="#0ea5e9"/>
+  <text x="26" y="52" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="13" fill="#0ea5e9" opacity=".85">02</text>
+  <text x="72" y="50" font-family="'Gill Sans MT', 'Gill Sans', Calibri, sans-serif" font-size="26" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Dental Care</text>
+  <text x="72" y="71" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="13" textLength="440" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Clinic site for a dentist in Darchula, Nepal.</text>
+  <text x="840" y="50" text-anchor="end" font-family="Consolas, 'Lucida Console', 'Courier New', monospace" font-size="12" fill="#6b7d96">Next.js &#183; React &#183; Vercel</text>
+  <text x="840" y="71" text-anchor="end" font-family="'Century Gothic', Futura, 'Trebuchet MS', sans-serif" font-size="11.5" letter-spacing="1.4" fill="#0ea5e9" opacity=".9">VIEW LIVE</text>
+  <g class="ar2" transform="translate(858,30)">
+    <path d="M0 10 L10 0" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round"/>
+    <path d="M4 0 L10 0 L10 6" fill="none" stroke="#0ea5e9" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-
-  <text x="24" y="66" font-family="Georgia, 'Times New Roman', serif" font-size="46" fill="#14b8a6" opacity=".20">02</text>
-  <text x="24" y="96" font-family="Georgia, 'Times New Roman', serif" font-size="25" textLength="300" lengthAdjust="spacingAndGlyphs" fill="#e6edf3">Tip Calculator</text>
-  <text x="24" y="117" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" textLength="330" lengthAdjust="spacingAndGlyphs" fill="#8ea3c0">Split any bill with tip, instantly.</text>
-
-    <rect x="24" y="124" width="44" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="33" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">HTML</text>
-    <rect x="76" y="124" width="37" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="85" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">CSS</text>
-    <rect x="121" y="124" width="31" height="21" rx="10" fill="#151f31" stroke="#263349" stroke-width="1"/>
-    <text x="130" y="139" font-family="Consolas, Menlo, monospace" font-size="11" fill="#a9b6c9">JS</text>
-
-  <g class="ar1" transform="translate(392,22)">
-    <path d="M0 14 L14 0" fill="none" stroke="#14b8a6" stroke-width="2.5" stroke-linecap="round"/>
-    <path d="M6 0 L14 0 L14 8" fill="none" stroke="#14b8a6" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
+  <rect x="0" y="85" width="900" height="1" fill="#1b2637"/>
 </svg>

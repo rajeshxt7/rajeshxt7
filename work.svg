@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="236" viewBox="0 0 900 236" role="img" aria-label="How I work">
+  <title>How I work</title>
+  <rect width="900" height="236" fill="#0d1117"/>
+  <text x="20" y="38" font-family="Copperplate, 'Copperplate Gothic Bold', 'Century Gothic', Futura, sans-serif" font-size="22" letter-spacing="2.6" fill="#7fe7ff">HOW I WORK</text>
+  <rect x="20" y="52" width="860" height="1" fill="#1b2637"/>
+  <rect x="22" y="82" width="10" height="10" rx="2" fill="#22d3ee"/>
+  <text x="42" y="91" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">Mobile-first and responsive on every screen size</text>
+  <rect x="22" y="112" width="10" height="10" rx="2" fill="#a855f7"/>
+  <text x="42" y="121" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">Semantic, maintainable front-end code</text>
+  <rect x="22" y="142" width="10" height="10" rx="2" fill="#f472b6"/>
+  <text x="42" y="151" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">Clear visual hierarchy with careful spacing and typography</text>
+  <rect x="22" y="172" width="10" height="10" rx="2" fill="#a3e635"/>
+  <text x="42" y="181" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">Accessibility and performance kept in mind from the start</text>
+  <rect x="22" y="202" width="10" height="10" rx="2" fill="#f59e0b"/>
+  <text x="42" y="211" font-family="Georgia, 'Times New Roman', serif" font-size="15.5" fill="#b9c7d9">Fast delivery with clear communication</text>
+</svg>
