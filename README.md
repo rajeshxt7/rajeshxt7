@@ -56,24 +56,48 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="6">
   <tr>
     <td width="50%" align="center">
-      <a href="https://horaa-esports-website.vercel.app/"><img src="proj1.svg" width="100%" alt="Horaa Esports — esports team website" /></a>
+      <a href="https://horaa-esports-website.vercel.app/"><img src="proj1.svg" width="100%" alt="Horaa Esports" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="proj2.svg" width="100%" alt="Client work — landing pages and redesigns" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/tip-calculator.html"><img src="proj2.svg" width="100%" alt="Tip Calculator" /></a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="proj3.svg" width="100%" alt="Figma to code — pixel accurate builds" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/todo-list.html"><img src="proj3.svg" width="100%" alt="Todo List" /></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="proj4.svg" width="100%" alt="Responsive mobile-first builds" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/password-generator.html"><img src="proj4.svg" width="100%" alt="Password Gen" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/color-palette.html"><img src="proj5.svg" width="100%" alt="Color Palette" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/pomodoro.html"><img src="proj6.svg" width="100%" alt="Pomodoro" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/quiz-app.html"><img src="proj7.svg" width="100%" alt="Quiz App" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/tic-tac-toe.html"><img src="proj8.svg" width="100%" alt="Tic Tac Toe" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/unit-converter.html"><img src="proj9.svg" width="100%" alt="Unit Converter" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/expense-tracker.html"><img src="proj10.svg" width="100%" alt="Expense Tracker" /></a>
     </td>
   </tr>
 </table>
 
 <p align="center">
-<sub>Every card links straight to the work or to my Upwork profile — more case studies shared on request.</sub>
+<sub>Ten live mini-projects — HTML, CSS and vanilla JavaScript. Click any card to open it.</sub>
 </p>
 
 <!--
@@ -128,7 +152,9 @@ I combine front-end development with UI/UX thinking so that every site I ship lo
 
 ## 🛠️ What I Build
 
-Responsive landing pages · website redesigns · UI implementation · Figma-to-website projects · performance & accessibility fixes
+<sub>Landing pages · redesigns · Figma-to-code · performance · accessibility · design systems</sub>
+
+
 
 <br />
 
