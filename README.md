@@ -8,7 +8,6 @@
 
 <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="https://img.shields.io/badge/Upwork-Hire%20Me-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Hire me on Upwork" /></a>
 <a href="https://github.com/rajeshxt7"><img src="https://img.shields.io/badge/GitHub-rajeshxt7-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<a href="https://horaa-esports-website.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Horaa%20Esports-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" /></a>
 
 <br /><br />
 
@@ -48,14 +47,10 @@
 
 ## 🚀 Projects
 
-_Live client projects — click a row to open it._
+_My live client project — click to open it._
 
 <div align="center">
-<a href="https://horaa-esports-website.vercel.app/"><img src="proj1.svg" width="100%" alt="Horaa Esports" /></a>
-</div>
-
-<div align="center">
-<a href="https://rajesh-dental-care.vercel.app/"><img src="proj2.svg" width="100%" alt="Dental Care" /></a>
+<a href="https://rajesh-dental-care.vercel.app/"><img src="proj1.svg" width="100%" alt="Dental Care" /></a>
 </div>
 
 ## 🧩 Mini Projects
@@ -65,35 +60,35 @@ _Live client projects — click a row to open it._
 <table align="center" width="100%" border="0" cellspacing="0" cellpadding="2">
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/tip-calculator.html"><img src="proj3.svg" width="100%" alt="Tip Calculator" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/tip-calculator.html"><img src="proj2.svg" width="100%" alt="Tip Calculator" /></a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/todo-list.html"><img src="proj4.svg" width="100%" alt="Todo List" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/todo-list.html"><img src="proj3.svg" width="100%" alt="Todo List" /></a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/password-generator.html"><img src="proj5.svg" width="100%" alt="Password Gen" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/color-palette.html"><img src="proj6.svg" width="100%" alt="Color Palette" /></a>
-    </td>
-    <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/pomodoro.html"><img src="proj7.svg" width="100%" alt="Pomodoro" /></a>
-    </td>
-    <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/quiz-app.html"><img src="proj8.svg" width="100%" alt="Quiz App" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/password-generator.html"><img src="proj4.svg" width="100%" alt="Password Gen" /></a>
     </td>
   </tr>
   <tr>
     <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/tic-tac-toe.html"><img src="proj9.svg" width="100%" alt="Tic Tac Toe" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/color-palette.html"><img src="proj5.svg" width="100%" alt="Color Palette" /></a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/unit-converter.html"><img src="proj10.svg" width="100%" alt="Unit Converter" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/pomodoro.html"><img src="proj6.svg" width="100%" alt="Pomodoro" /></a>
     </td>
     <td width="33.3%" align="center">
-      <a href="https://rajeshxt7.github.io/mini-projects/expense-tracker.html"><img src="proj11.svg" width="100%" alt="Expense Tracker" /></a>
+      <a href="https://rajeshxt7.github.io/mini-projects/quiz-app.html"><img src="proj7.svg" width="100%" alt="Quiz App" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/tic-tac-toe.html"><img src="proj8.svg" width="100%" alt="Tic Tac Toe" /></a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/unit-converter.html"><img src="proj9.svg" width="100%" alt="Unit Converter" /></a>
+    </td>
+    <td width="33.3%" align="center">
+      <a href="https://rajeshxt7.github.io/mini-projects/expense-tracker.html"><img src="proj10.svg" width="100%" alt="Expense Tracker" /></a>
     </td>
   </tr>
 </table>
@@ -145,7 +140,7 @@ _Live client projects — click a row to open it._
 <div align="center">
 <a href="https://www.upwork.com/freelancers/~012441414a81dc8c53"><img src="https://img.shields.io/badge/-Upwork-14a800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 <a href="https://github.com/rajeshxt7"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://horaa-esports-website.vercel.app/"><img src="https://img.shields.io/badge/-Live%20Project-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" /></a>
+<a href="https://rajesh-dental-care.vercel.app/"><img src="https://img.shields.io/badge/-Live%20Project-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Live project" /></a>
 </div>
 
 <br />
